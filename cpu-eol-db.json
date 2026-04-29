@@ -1,0 +1,43 @@
+{
+  "source": "https://knowledge.broadcom.com/external/article/318697",
+  "lastUpdated": "2026-02-19",
+  "versions": {
+    "9.x": {
+      "discontinued": [
+        { "series": "D-1500 Series", "codename": "Broadwell-DE" },
+        { "series": "E3-1200 v5 / E3-1500 v5", "codename": "Skylake-S" },
+        { "series": "E3-1200 v6", "codename": "Kabylake-S" },
+        { "series": "E5-2600 v4", "codename": "Broadwell-EP" },
+        { "series": "E5-2680 v4", "codename": "Broadwell-EP" },
+        { "series": "E5-1600 v4", "codename": "Broadwell-EP" },
+        { "series": "E5-4600 v4", "codename": "Broadwell-EP" },
+        { "series": "E7-8800 v4", "codename": "Broadwell-EP" },
+        { "series": "E7-4800 v4", "codename": "Broadwell-EP" },
+        { "series": "Platinum 8100", "codename": "Skylake-SP" },
+        { "series": "Gold 6100", "codename": "Skylake-SP" },
+        { "series": "Gold 5100", "codename": "Skylake-SP" },
+        { "series": "Silver 4100", "codename": "Skylake-SP" },
+        { "series": "Bronze 3100", "codename": "Skylake-SP" },
+        { "series": "D-2100 Series", "codename": "Skylake-D" },
+        { "series": "W-2100 Series",  "codename": "Skylake-W" }
+      ],
+      "deprecated": [
+        { "series": "EPYC 7001 Series", "codename": "Naples" },
+        { "series": "EPYC 7002", "codename": "Rome" },
+        { "series": "7Fx2 Series", "codename": "Rome" },
+        { "series": "Platinum 8200", "codename": "Cascade Lake" },
+        { "series": "Gold 6200", "codename": "Cascade Lake" },
+        { "series": "Gold 5200", "codename": "Cascade Lake" },
+        { "series": "Silver 4200", "codename": "Cascade Lake" },
+        { "series": "Bronze 3200", "codename": "Cascade Lake" },
+        { "series": "E-2100 Series (4 or 6-core)", "codename": "Coffee Lake" },
+        { "series": "E-2200 Series (8-core)", "codename": "Coffee Lake Refresh" },
+        { "series": "C3000 Series",  "codename": "Denverton" }
+      ]
+    },
+  "10.x": {
+    "discontinued": [],
+    "deprecated": []
+  }
+ }
+}
